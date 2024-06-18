@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Aehus (Huy Pham) 👋
+I'm an NLP enthusiast with a passion for sharing knowledge and on the way to Explanable LLM.
 
-<!--
-**AEHUSPHAM/AEHUSPHAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻[Follow me on X](https://x.com/aehus_pham)    🤗[Hugging Face](https://huggingface.co/Aehus)    💼[Linkedin](https://www.linkedin.com/in/pnhuy/)    🔥[Blogs](https://aehus.substack.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile)
 
-Here are some ideas to get you started:
+## My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [VinaLLaMA](https://huggingface.co/collections/vilm/vinallama-654a099308775ce78e630a6f)
+Description: Second Generation, Most Powerful Open-Source Vietnamese LLMs.
+
+### [Vietcuna](https://huggingface.co/collections/vilm/vietcuna-6549e67ce546b0737ec9931f)
+First Gen Large Language Models for Vietnamese, based on BLOOMZ.
+
+---
+Have a great day! 😊
+
+
